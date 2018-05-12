@@ -1,5 +1,8 @@
 _repo: France-at-War--On-the-Frontier-of-Civilization_12454
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -15,6 +18,8 @@ description: During World War I, acclaimed author Rudyard Kipling visited the We
   Front as a reporter and wrote about his experiences in France at War. These thoughtful
   pieces are ideal for history buffs and all the more compelling because Kipling's
   only son, John, was killed in the war at the Battle of Loos.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12454#France-at-War--On-the-Frontier-of-Civilization
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
